@@ -62,6 +62,13 @@ The COCO (Common Objects in Context) Dataset for Image Captioning is a comprehen
 #	How to Run the Code   #
 ###########################
 
+The repository contains three files and a folder: 
+	-	This readme
+	-	The commented and discussed notebook
+	-	The dataset.json file, containing the training dataset
+	-	A folder containing the saved scores and losses from the lastest execution of the notebook
+
+
 All the libraries needed to run the code are installed through the pip command at runtime in the first code block of the notebook.
 The pretrained models are to be retrieved at runtime from huggingface.com, thus an internet connection is required to run the code.
 The dataset is included in the repository with the name "dataset.json", but the images are retrieved at runtime from their URL, once again needing an internet connection.
