@@ -69,8 +69,7 @@ The repository contains three files and a folder:
 	-	This readme
 	-	The commented and discussed notebook
 	-	The dataset.json file, containing the training dataset
-	-	A folder containing the saved scores and losses from the lastest execution of the notebook. 
- 		This is folder is not necessary for the execution.
+	-	A folder containing the saved scores and losses from the lastest execution of the notebook. This folder is not necessary for the execution.
 
 
 All the libraries needed to run the code are installed through the pip command at runtime in the first code block of the notebook.
